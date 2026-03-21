@@ -57,4 +57,4 @@ npx skills add 24kchengYe/email-digest
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=24kchengYe.email-digest)
 
-[![Star History Chart](https://api.star-history.com/svg?repos=24kchengYe/email-digest&type=Date)](https://star-history.com/#24kchengYe/email-digest&Date)
+[![Star History](https://starchart.cc/24kchengYe/email-digest.svg)](https://starchart.cc/24kchengYe/email-digest)
